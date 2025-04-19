@@ -24,7 +24,7 @@ $$\begin{aligned}
 
 $$\begin{align*}
 -2X^TY + 2X^TX\vec{\beta} &= 0 \\
-\Rightarrow X^TX\vec{\beta} &= X^TY \\
-\Rightarrow\vec{\hat{\beta}} &= \left(X^TX\right)^{-1}X^TY
+\Rightarrow X^TX\vec{\beta} = X^TY \\
+\Rightarrow\vec{\hat{\beta}} = \left(X^TX\right)^{-1}X^TY
 \end{align*}$$
 
